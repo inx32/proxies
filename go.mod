@@ -1,4 +1,4 @@
-module github.com/infernox-dev/proxies
+module github.com/inx32/proxies
 
 go 1.23.7
 
